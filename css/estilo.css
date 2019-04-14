@@ -1,0 +1,45 @@
+body.color
+{
+  background-color: rgb(144, 207, 12);
+  background-image:url("../imagenes/bkg-innerGame.png");
+}
+body.imagen
+{
+  background-image: url("../imagenes/fnd_01.jpg");
+}
+table
+{
+  border: 1px solid;
+  border-color: rgb(71, 176, 7);
+  background-color: rgba(255, 255, 255, 0.41);
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+}
+iframe
+{
+width: 1000px;
+height:500px;
+margin:auto;
+border: none;
+}
+
+
+
+
+
+
+
+
+
+p
+{
+  font-family: verdana;
+  font-size: 10;
+  color: #ff0000;
+}
+h1
+{
+  font-family: verdana;
+  color: #ff0000;
+}
